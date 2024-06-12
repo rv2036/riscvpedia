@@ -1,4 +1,4 @@
-# riscvpedia: RISC-V User Documentation Encyclopedia Project
+# RISC-V User Documentation Encyclopedia Project
 
 Please stay tuned.
 **The project is scheduled to be officially released at the RISC-V China Summit on August 21.**
