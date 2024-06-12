@@ -1,5 +1,7 @@
 # RISC-V User Documentation Encyclopedia Project
 
+[Chinese Version](./README.cn.md)
+
 Please stay tuned.
 **The project is scheduled to be officially released at the RISC-V China Summit on August 21.**
 
