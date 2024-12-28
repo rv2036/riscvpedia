@@ -2,10 +2,8 @@
 
 [Chinese Version](./README.cn.md)
 
-Please stay tuned.
-**The project is scheduled to be officially released at the RISC-V China Summit on August 21.**
-
 - Serving the future 50 million RISC-V users.
 - Part of the Jiachen Project.
-- Initiated by Kubuds Technology, a member of Jiachen Project.
-- More than 7 manufacturers are willing to join (as of June 10).
+- Initiated by Kubuds Technology (苦芽科技), a company member of Jiachen Project.
+- More than 7 manufacturers are willing to join (as of June 10, 2024).
+- The project was kickoff at the RISC-V China Summit on August 21, 2024.
